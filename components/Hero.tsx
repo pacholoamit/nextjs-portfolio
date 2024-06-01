@@ -51,7 +51,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Pacholo, a sofwtare engineer based in Cebu, Philippines.
+            Hi! I&apos;m Pacholo, a software engineer based in Cebu, Philippines.
           </p>
 
           <a href="#about">
