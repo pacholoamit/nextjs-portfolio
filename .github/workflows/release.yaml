@@ -41,7 +41,7 @@ jobs:
           type=semver,pattern=v{{major}}.{{minor}}
         flavor: |
           latest=true
-        images: ghcr.io/pacholoamit/nextjs-developer-portfolio
+        images: ghcr.io/pacholoamit/nextjs-portfolio
 
     - name: Build and push Docker image
       uses: docker/build-push-action@v4

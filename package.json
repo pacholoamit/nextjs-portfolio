@@ -45,5 +45,6 @@
   },
   "engines": {
     "node": "20.x.x"
-  }
+  },
+  "packageManager": "yarn@4.2.2"
 }
