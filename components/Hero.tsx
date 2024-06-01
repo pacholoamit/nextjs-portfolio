@@ -36,8 +36,8 @@ const Hero = () => {
 
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
-          <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-            Software Developer | Devops Engineer | Homelab Enthusiast | Server Administrator
+          <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-120">
+            Software Developer | Devops Engineer | Server Administrator
           </p>
 
           {/**
@@ -51,7 +51,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Pacholo, a Software Developer based in Cebu, Philippines.
+            Hi! I&apos;m Pacholo, a sofwtare engineer based in Cebu, Philippines.
           </p>
 
           <a href="#about">
