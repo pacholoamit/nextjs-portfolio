@@ -29,7 +29,7 @@
     "tailwindcss-animate": "^1.0.7",
     "three": "^0.165.0",
     "three-globe": "^2.31.0",
-    "vercel": "^34.2.4"
+    "vercel": "^34.2.6"
   },
   "devDependencies": {
     "@types/node": "^20",
